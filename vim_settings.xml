@@ -3,10 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/sfml-sample/main.cpp" timestamp="1488810125545">
-        <mark key="[" line="0" column="0" />
-        <mark key="]" line="0" column="0" />
-        <mark key="." line="0" column="0" />
+      <file name="$USER_HOME$/CLionProjects/sfml-sample/main.cpp" timestamp="1488895772483">
+        <mark key="[" line="3" column="48" />
+        <mark key="]" line="2" column="0" />
+        <mark key="." line="2" column="0" />
+        <mark key="^" line="2" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/sfml-sample/conanfile.txt" timestamp="1488810278864">
         <mark key="[" line="1" column="32" />
@@ -14,26 +15,31 @@
         <mark key="^" line="1" column="31" />
         <mark key="." line="1" column="31" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/sfml-sample/CMakeLists.txt" timestamp="1488894075679">
-        <mark key="[" line="10" column="22" />
-        <mark key="]" line="10" column="22" />
-        <mark key="." line="10" column="22" />
-        <mark key="^" line="10" column="41" />
+      <file name="$USER_HOME$/CLionProjects/sfml-sample/CMakeLists.txt" timestamp="1488895491939">
+        <mark key="[" line="5" column="25" />
+        <mark key="]" line="12" column="0" />
+        <mark key="." line="12" column="0" />
       </file>
     </filemarks>
     <jumps />
     <registers>
       <register name="1" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGlvc3RyZWFtPgo=</text>
+        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
       </register>
       <register name="&quot;" type="4">
-        <text>timer</text>
+        <text>480</text>
       </register>
       <register name="2" type="2">
+        <text encoding="base64">bWVzc2FnZSgiVEVTVCIpCm1lc3NhZ2UoJHtDTUFLRV9DVVJSRU5UX1NPVVJDRV9ESVJ9KQptZXNzYWdlKCR7Q01BS0VfQklOQVJZX0RJUn0pCg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPGlvc3RyZWFtPgo=</text>
+      </register>
+      <register name="4" type="2">
         <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiSGVsbG8sIFdvcmxkISIgPDwgc3RkOjplbmRsOwo=</text>
       </register>
       <register name="-" type="4">
-        <text>timer</text>
+        <text>480</text>
       </register>
     </registers>
     <search>
@@ -46,6 +52,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed R</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
