@@ -3,11 +3,17 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/sfml-sample/main.cpp" timestamp="1488897778314">
-        <mark key="[" line="11" column="19" />
-        <mark key="]" line="11" column="18" />
-        <mark key="." line="11" column="18" />
-        <mark key="^" line="11" column="18" />
+      <file name="$USER_HOME$/CLionProjects/sfml-sample/Game.cpp" timestamp="1489068336790">
+        <mark key="[" line="41" column="18" />
+        <mark key="]" line="41" column="18" />
+        <mark key="^" line="6" column="11" />
+        <mark key="." line="41" column="18" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/sfml-sample/main.cpp" timestamp="1489067853612">
+        <mark key="[" line="6" column="15" />
+        <mark key="]" line="7" column="12" />
+        <mark key="^" line="7" column="12" />
+        <mark key="." line="7" column="12" />
       </file>
       <file name="$USER_HOME$/CLionProjects/sfml-sample/conanfile.txt" timestamp="1488810278864">
         <mark key="[" line="1" column="32" />
@@ -20,26 +26,56 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="$USER_HOME$/CLionProjects/sfml-sample/Game.h" timestamp="1489068246484">
+        <mark key="[" line="15" column="20" />
+        <mark key="]" line="15" column="27" />
+        <mark key="." line="15" column="27" />
+        <mark key="^" line="15" column="27" />
+      </file>
     </filemarks>
     <jumps />
     <registers>
-      <register name="1" type="2">
-        <text encoding="base64">ICAgIHJldHVybiAwOwo=</text>
+      <register name="a" type="2">
+        <text encoding="base64">ICAgIHNmOjpSZW5kZXJXaW5kb3cgd2luZG93KHNmOjpWaWRlb01vZGUoMTI4MCwgOTYwKSwgIlNGTUwgQXBwbGljYXRpb24iKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>480</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">bWVzc2FnZSgiVEVTVCIpCm1lc3NhZ2UoJHtDTUFLRV9DVVJSRU5UX1NPVVJDRV9ESVJ9KQptZXNzYWdlKCR7Q01BS0VfQklOQVJZX0RJUn0pCg==</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPGlvc3RyZWFtPgo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">ICAgIHN0ZDo6Y291dCA8PCAiSGVsbG8sIFdvcmxkISIgPDwgc3RkOjplbmRsOwo=</text>
+        <text>shape</text>
       </register>
       <register name="-" type="4">
-        <text>480</text>
+        <text>shape</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPFNGTUwvR3JhcGhpY3MuaHBwPgo=</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIHNoYXBlLnNldFJhZGl1cyg4MC5mKTsKICAgIHNoYXBlLnNldFBvc2l0aW9uKDIwMC5mLCAyMDAuZik7CiAgICBzaGFwZS5zZXRGaWxsQ29sb3Ioc2Y6OkNvbG9yOjpDeWFuKTsKCg==</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">ICAgIHNmOjpDaXJjbGVTaGFwZSBzaGFwZTsK</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">ICAgIHNmOjpDaXJjbGVTaGFwZSBzaGFwZTsKICAgIHNoYXBlLnNldFJhZGl1cyg4MC5mKTsKICAgIHNoYXBlLnNldFBvc2l0aW9uKDIwMC5mLCAyMDAuZik7CiAgICBzaGFwZS5zZXRGaWxsQ29sb3Ioc2Y6OkNvbG9yOjpDeWFuKTsKCg==</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
+        <text encoding="base64">ICAgIG1fd2luZG93LmNsZWFyKCk7CiAgICBtX3dpbmRvdy5kcmF3KHNoYXBlKTsKICAgIG1fd2luZG93LmRpc3BsYXkoKTsK</text>
+      </register>
+      <register name="6" type="2">
+        <text encoding="base64">ICAgIHNmOjpDaXJjbGVTaGFwZSBzaGFwZTsKICAgIHNoYXBlLnNldFJhZGl1cyg4MC5mKTsKICAgIHNoYXBlLnNldFBvc2l0aW9uKDIwMC5mLCAyMDAuZik7CiAgICBzaGFwZS5zZXRGaWxsQ29sb3Ioc2Y6OkNvbG9yOjpDeWFuKTsK</text>
+      </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBzZjo6RXZlbnQgZXZlbnQ7CiAgICAgICAgd2hpbGUgKG1fd2luZG93LnBvbGxFdmVudChldmVudCkpCiAgICAgICAgewogICAgICAgICAgICBpZiAoZXZlbnQudHlwZSA9PSBzZjo6RXZlbnQ6OkNsb3NlZCkKICAgICAgICAgICAgICAgIG1fd2luZG93LmNsb3NlKCk7CiAgICAgICAgfQogICAgICAgIG1fd2luZG93LmNsZWFyKCk7CiAgICAgICAgbV93aW5kb3cuZHJhdyhzaGFwZSk7CiAgICAgICAgbV93aW5kb3cuZGlzcGxheSgpOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIHNmOjpDaXJjbGVTaGFwZSBzaGFwZTsKICAgIHNoYXBlLnNldFJhZGl1cyg4MC5mKTsKICAgIHNoYXBlLnNldFBvc2l0aW9uKDIwMC5mLCAyMDAuZik7CiAgICBzaGFwZS5zZXRGaWxsQ29sb3Ioc2Y6OkNvbG9yOjpDeWFuKTsKICAgIHdoaWxlICh3aW5kb3cuaXNPcGVuKCkpCiAgICB7CiAgICAgICAgc2Y6OkV2ZW50IGV2ZW50OwogICAgICAgIHdoaWxlICh3aW5kb3cucG9sbEV2ZW50KGV2ZW50KSkKICAgICAgICB7CiAgICAgICAgICAgIGlmIChldmVudC50eXBlID09IHNmOjpFdmVudDo6Q2xvc2VkKQogICAgICAgICAgICAgICAgd2luZG93LmNsb3NlKCk7CiAgICAgICAgfQogICAgICAgIHdpbmRvdy5jbGVhcigpOwogICAgICAgIHdpbmRvdy5kcmF3KHNoYXBlKTsKICAgICAgICB3aW5kb3cuZGlzcGxheSgpOwogICAgfQo=</text>
+      </register>
+      <register name=":" type="4">
+        <text>w</text>
       </register>
     </registers>
     <search>
@@ -48,13 +84,18 @@
     </search>
     <history>
       <history-search />
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
     <shortcut-conflicts>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed R</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed H</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
