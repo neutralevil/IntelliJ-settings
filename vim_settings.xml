@@ -3,11 +3,11 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/sfml-sample/Game.cpp" timestamp="1489068336790">
-        <mark key="[" line="41" column="18" />
-        <mark key="]" line="41" column="18" />
-        <mark key="^" line="6" column="11" />
-        <mark key="." line="41" column="18" />
+      <file name="$USER_HOME$/CLionProjects/sfml-sample/Game.cpp" timestamp="1489153762366">
+        <mark key="'" line="58" column="33" />
+        <mark key="[" line="13" column="0" />
+        <mark key="]" line="13" column="0" />
+        <mark key="." line="13" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/sfml-sample/main.cpp" timestamp="1489067853612">
         <mark key="[" line="6" column="15" />
@@ -26,53 +26,55 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/sfml-sample/Game.h" timestamp="1489068246484">
-        <mark key="[" line="15" column="20" />
-        <mark key="]" line="15" column="27" />
-        <mark key="." line="15" column="27" />
-        <mark key="^" line="15" column="27" />
+      <file name="$USER_HOME$/CLionProjects/sfml-sample/Game.h" timestamp="1489153273727">
+        <mark key="[" line="22" column="19" />
+        <mark key="]" line="22" column="23" />
+        <mark key="." line="22" column="23" />
+        <mark key="^" line="22" column="23" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="55" column="33" filename="$USER_HOME$/CLionProjects/sfml-sample/Game.cpp" />
+    </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIHNmOjpSZW5kZXJXaW5kb3cgd2luZG93KHNmOjpWaWRlb01vZGUoMTI4MCwgOTYwKSwgIlNGTUwgQXBwbGljYXRpb24iKTsK</text>
       </register>
-      <register name="&quot;" type="4">
-        <text>shape</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
-        <text>shape</text>
+        <text encoding="base64">IA==</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">I2luY2x1ZGUgPFNGTUwvR3JhcGhpY3MuaHBwPgo=</text>
+        <text encoding="base64">ICAgICwgbV9pc01vdmluZ1VwKGZhbHNlKQo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIHNoYXBlLnNldFJhZGl1cyg4MC5mKTsKICAgIHNoYXBlLnNldFBvc2l0aW9uKDIwMC5mLCAyMDAuZik7CiAgICBzaGFwZS5zZXRGaWxsQ29sb3Ioc2Y6OkNvbG9yOjpDeWFuKTsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgIHNmOjpDaXJjbGVTaGFwZSBzaGFwZTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZXZlbnQudHlwZSA9PSBzZjo6RXZlbnQ6OkNsb3NlZCkKICAgICAgICAgICAgbV93aW5kb3cuY2xvc2UoKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNmOjpDaXJjbGVTaGFwZSBzaGFwZTsKICAgIHNoYXBlLnNldFJhZGl1cyg4MC5mKTsKICAgIHNoYXBlLnNldFBvc2l0aW9uKDIwMC5mLCAyMDAuZik7CiAgICBzaGFwZS5zZXRGaWxsQ29sb3Ioc2Y6OkNvbG9yOjpDeWFuKTsKCg==</text>
+        <text encoding="base64">ICAgIHNoYXBlLnNldFJhZGl1cyg4MC5mKTsKICAgIHNoYXBlLnNldFBvc2l0aW9uKDIwMC5mLCAyMDAuZik7CiAgICBzaGFwZS5zZXRGaWxsQ29sb3Ioc2Y6OkNvbG9yOjpDeWFuKTsKCg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNmOjpDaXJjbGVTaGFwZSBzaGFwZTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIG1fd2luZG93LmNsZWFyKCk7CiAgICBtX3dpbmRvdy5kcmF3KHNoYXBlKTsKICAgIG1fd2luZG93LmRpc3BsYXkoKTsK</text>
+        <text encoding="base64">ICAgIHNmOjpDaXJjbGVTaGFwZSBzaGFwZTsKICAgIHNoYXBlLnNldFJhZGl1cyg4MC5mKTsKICAgIHNoYXBlLnNldFBvc2l0aW9uKDIwMC5mLCAyMDAuZik7CiAgICBzaGFwZS5zZXRGaWxsQ29sb3Ioc2Y6OkNvbG9yOjpDeWFuKTsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNmOjpDaXJjbGVTaGFwZSBzaGFwZTsKICAgIHNoYXBlLnNldFJhZGl1cyg4MC5mKTsKICAgIHNoYXBlLnNldFBvc2l0aW9uKDIwMC5mLCAyMDAuZik7CiAgICBzaGFwZS5zZXRGaWxsQ29sb3Ioc2Y6OkNvbG9yOjpDeWFuKTsK</text>
-      </register>
-      <register name="7" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgIG1fd2luZG93LmNsZWFyKCk7CiAgICBtX3dpbmRvdy5kcmF3KHNoYXBlKTsKICAgIG1fd2luZG93LmRpc3BsYXkoKTsK</text>
+      </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgICAgICBzZjo6RXZlbnQgZXZlbnQ7CiAgICAgICAgd2hpbGUgKG1fd2luZG93LnBvbGxFdmVudChldmVudCkpCiAgICAgICAgewogICAgICAgICAgICBpZiAoZXZlbnQudHlwZSA9PSBzZjo6RXZlbnQ6OkNsb3NlZCkKICAgICAgICAgICAgICAgIG1fd2luZG93LmNsb3NlKCk7CiAgICAgICAgfQogICAgICAgIG1fd2luZG93LmNsZWFyKCk7CiAgICAgICAgbV93aW5kb3cuZHJhdyhzaGFwZSk7CiAgICAgICAgbV93aW5kb3cuZGlzcGxheSgpOwo=</text>
+        <text encoding="base64">ICAgIHNmOjpDaXJjbGVTaGFwZSBzaGFwZTsKICAgIHNoYXBlLnNldFJhZGl1cyg4MC5mKTsKICAgIHNoYXBlLnNldFBvc2l0aW9uKDIwMC5mLCAyMDAuZik7CiAgICBzaGFwZS5zZXRGaWxsQ29sb3Ioc2Y6OkNvbG9yOjpDeWFuKTsK</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIHNmOjpDaXJjbGVTaGFwZSBzaGFwZTsKICAgIHNoYXBlLnNldFJhZGl1cyg4MC5mKTsKICAgIHNoYXBlLnNldFBvc2l0aW9uKDIwMC5mLCAyMDAuZik7CiAgICBzaGFwZS5zZXRGaWxsQ29sb3Ioc2Y6OkNvbG9yOjpDeWFuKTsKICAgIHdoaWxlICh3aW5kb3cuaXNPcGVuKCkpCiAgICB7CiAgICAgICAgc2Y6OkV2ZW50IGV2ZW50OwogICAgICAgIHdoaWxlICh3aW5kb3cucG9sbEV2ZW50KGV2ZW50KSkKICAgICAgICB7CiAgICAgICAgICAgIGlmIChldmVudC50eXBlID09IHNmOjpFdmVudDo6Q2xvc2VkKQogICAgICAgICAgICAgICAgd2luZG93LmNsb3NlKCk7CiAgICAgICAgfQogICAgICAgIHdpbmRvdy5jbGVhcigpOwogICAgICAgIHdpbmRvdy5kcmF3KHNoYXBlKTsKICAgICAgICB3aW5kb3cuZGlzcGxheSgpOwogICAgfQo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
@@ -96,6 +98,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed H</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed N</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
