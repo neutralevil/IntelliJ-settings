@@ -3,11 +3,12 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/sfml-sample/Game.cpp" timestamp="1489153762366">
-        <mark key="'" line="58" column="33" />
-        <mark key="[" line="13" column="0" />
-        <mark key="]" line="13" column="0" />
-        <mark key="." line="13" column="0" />
+      <file name="$USER_HOME$/CLionProjects/sfml-sample/Game.cpp" timestamp="1489154367978">
+        <mark key="'" line="68" column="33" />
+        <mark key="[" line="53" column="27" />
+        <mark key="]" line="53" column="20" />
+        <mark key="." line="53" column="20" />
+        <mark key="^" line="52" column="22" />
       </file>
       <file name="$USER_HOME$/CLionProjects/sfml-sample/main.cpp" timestamp="1489067853612">
         <mark key="[" line="6" column="15" />
@@ -40,41 +41,41 @@
       <register name="a" type="2">
         <text encoding="base64">ICAgIHNmOjpSZW5kZXJXaW5kb3cgd2luZG93KHNmOjpWaWRlb01vZGUoMTI4MCwgOTYwKSwgIlNGTUwgQXBwbGljYXRpb24iKTsK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>Up</text>
       </register>
       <register name="-" type="4">
-        <text encoding="base64">IA==</text>
+        <text>Up</text>
       </register>
       <register name="0" type="2">
-        <text encoding="base64">ICAgICwgbV9pc01vdmluZ1VwKGZhbHNlKQo=</text>
+        <text encoding="base64">ICAgIGlmIChtX2lzTW92aW5nVXApCiAgICAgICAgbW92ZW1lbnQueSAtPSAxLjBmOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZXZlbnQudHlwZSA9PSBzZjo6RXZlbnQ6OkNsb3NlZCkKICAgICAgICAgICAgbV93aW5kb3cuY2xvc2UoKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIHNoYXBlLnNldFJhZGl1cyg4MC5mKTsKICAgIHNoYXBlLnNldFBvc2l0aW9uKDIwMC5mLCAyMDAuZik7CiAgICBzaGFwZS5zZXRGaWxsQ29sb3Ioc2Y6OkNvbG9yOjpDeWFuKTsKCg==</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgIHNmOjpDaXJjbGVTaGFwZSBzaGFwZTsK</text>
+        <text encoding="base64">ICAgICAgICBpZiAoZXZlbnQudHlwZSA9PSBzZjo6RXZlbnQ6OkNsb3NlZCkKICAgICAgICAgICAgbV93aW5kb3cuY2xvc2UoKTsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNmOjpDaXJjbGVTaGFwZSBzaGFwZTsKICAgIHNoYXBlLnNldFJhZGl1cyg4MC5mKTsKICAgIHNoYXBlLnNldFBvc2l0aW9uKDIwMC5mLCAyMDAuZik7CiAgICBzaGFwZS5zZXRGaWxsQ29sb3Ioc2Y6OkNvbG9yOjpDeWFuKTsKCg==</text>
+        <text encoding="base64">ICAgIHNoYXBlLnNldFJhZGl1cyg4MC5mKTsKICAgIHNoYXBlLnNldFBvc2l0aW9uKDIwMC5mLCAyMDAuZik7CiAgICBzaGFwZS5zZXRGaWxsQ29sb3Ioc2Y6OkNvbG9yOjpDeWFuKTsKCg==</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIHNmOjpDaXJjbGVTaGFwZSBzaGFwZTsK</text>
       </register>
       <register name="7" type="2">
-        <text encoding="base64">ICAgIG1fd2luZG93LmNsZWFyKCk7CiAgICBtX3dpbmRvdy5kcmF3KHNoYXBlKTsKICAgIG1fd2luZG93LmRpc3BsYXkoKTsK</text>
+        <text encoding="base64">ICAgIHNmOjpDaXJjbGVTaGFwZSBzaGFwZTsKICAgIHNoYXBlLnNldFJhZGl1cyg4MC5mKTsKICAgIHNoYXBlLnNldFBvc2l0aW9uKDIwMC5mLCAyMDAuZik7CiAgICBzaGFwZS5zZXRGaWxsQ29sb3Ioc2Y6OkNvbG9yOjpDeWFuKTsKCg==</text>
       </register>
       <register name="8" type="2">
-        <text encoding="base64">ICAgIHNmOjpDaXJjbGVTaGFwZSBzaGFwZTsKICAgIHNoYXBlLnNldFJhZGl1cyg4MC5mKTsKICAgIHNoYXBlLnNldFBvc2l0aW9uKDIwMC5mLCAyMDAuZik7CiAgICBzaGFwZS5zZXRGaWxsQ29sb3Ioc2Y6OkNvbG9yOjpDeWFuKTsK</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="9" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgIG1fd2luZG93LmNsZWFyKCk7CiAgICBtX3dpbmRvdy5kcmF3KHNoYXBlKTsKICAgIG1fd2luZG93LmRpc3BsYXkoKTsK</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
