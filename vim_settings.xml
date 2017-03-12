@@ -3,18 +3,24 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/CLionProjects/sfml-sample/Game.cpp" timestamp="1489154367978">
-        <mark key="'" line="68" column="33" />
-        <mark key="[" line="53" column="27" />
-        <mark key="]" line="53" column="20" />
-        <mark key="." line="53" column="20" />
-        <mark key="^" line="52" column="22" />
+      <file name="/Dummy.txt" timestamp="1489287557528">
+        <mark key="[" line="0" column="0" />
+      </file>
+      <file name="$USER_HOME$/CLionProjects/sfml-sample/Game.cpp" timestamp="1489287705368">
+        <mark key="'" line="45" column="11" />
+        <mark key="[" line="21" column="15" />
+        <mark key="]" line="21" column="15" />
+        <mark key="." line="21" column="15" />
+        <mark key="^" line="21" column="23" />
       </file>
       <file name="$USER_HOME$/CLionProjects/sfml-sample/main.cpp" timestamp="1489067853612">
         <mark key="[" line="6" column="15" />
         <mark key="]" line="7" column="12" />
         <mark key="^" line="7" column="12" />
         <mark key="." line="7" column="12" />
+      </file>
+      <file name="/fragment.mm" timestamp="1489287579928">
+        <mark key="[" line="0" column="0" />
       </file>
       <file name="$USER_HOME$/CLionProjects/sfml-sample/conanfile.txt" timestamp="1488810278864">
         <mark key="[" line="1" column="32" />
@@ -36,16 +42,20 @@
     </filemarks>
     <jumps>
       <jump line="55" column="33" filename="$USER_HOME$/CLionProjects/sfml-sample/Game.cpp" />
+      <jump line="43" column="11" filename="$USER_HOME$/CLionProjects/sfml-sample/Game.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIHNmOjpSZW5kZXJXaW5kb3cgd2luZG93KHNmOjpWaWRlb01vZGUoMTI4MCwgOTYwKSwgIlNGTUwgQXBwbGljYXRpb24iKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>Up</text>
+        <text>sf::Time()</text>
       </register>
       <register name="-" type="4">
-        <text>Up</text>
+        <text>sf::Time()</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDx1cGRhdGVcPg==</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmIChtX2lzTW92aW5nVXApCiAgICAgICAgbW92ZW1lbnQueSAtPSAxLjBmOwo=</text>
@@ -82,11 +92,16 @@
       </register>
     </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDx1cGRhdGVcPg==</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDx1cGRhdGVcPg==</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDx1cGRhdGVcPg==</entry>
+      </history-search>
       <history-cmd>
         <entry>w</entry>
       </history-cmd>
