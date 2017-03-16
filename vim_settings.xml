@@ -6,14 +6,14 @@
       <file name="/Dummy.txt" timestamp="1489287557528">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/sfml-sample/Game.cpp" timestamp="1489287705368">
-        <mark key="'" line="45" column="11" />
-        <mark key="[" line="21" column="15" />
-        <mark key="]" line="21" column="15" />
-        <mark key="." line="21" column="15" />
-        <mark key="^" line="21" column="23" />
+      <file name="$USER_HOME$/CLionProjects/sfml-sample/Game.cpp" timestamp="1489673568054">
+        <mark key="'" line="55" column="15" />
+        <mark key="[" line="9" column="1" />
+        <mark key="]" line="10" column="41" />
+        <mark key="^" line="10" column="41" />
+        <mark key="." line="10" column="41" />
       </file>
-      <file name="$USER_HOME$/CLionProjects/sfml-sample/main.cpp" timestamp="1489067853612">
+      <file name="$USER_HOME$/CLionProjects/sfml-sample/main.cpp" timestamp="1489673144348">
         <mark key="[" line="6" column="15" />
         <mark key="]" line="7" column="12" />
         <mark key="^" line="7" column="12" />
@@ -33,6 +33,9 @@
         <mark key="]" line="12" column="0" />
         <mark key="." line="12" column="0" />
       </file>
+      <file name="/LLDB" timestamp="1489673162956">
+        <mark key="[" line="0" column="0" />
+      </file>
       <file name="$USER_HOME$/CLionProjects/sfml-sample/Game.h" timestamp="1489153273727">
         <mark key="[" line="22" column="19" />
         <mark key="]" line="22" column="23" />
@@ -43,64 +46,68 @@
     <jumps>
       <jump line="55" column="33" filename="$USER_HOME$/CLionProjects/sfml-sample/Game.cpp" />
       <jump line="43" column="11" filename="$USER_HOME$/CLionProjects/sfml-sample/Game.cpp" />
+      <jump line="69" column="11" filename="$USER_HOME$/CLionProjects/sfml-sample/Game.cpp" />
+      <jump line="48" column="15" filename="$USER_HOME$/CLionProjects/sfml-sample/Game.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
         <text encoding="base64">ICAgIHNmOjpSZW5kZXJXaW5kb3cgd2luZG93KHNmOjpWaWRlb01vZGUoMTI4MCwgOTYwKSwgIlNGTUwgQXBwbGljYXRpb24iKTsK</text>
       </register>
       <register name="&quot;" type="4">
-        <text>sf::Time()</text>
+        <text>deltaTime</text>
       </register>
       <register name="-" type="4">
-        <text>sf::Time()</text>
+        <text>deltaTime</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx1cGRhdGVcPg==</text>
+        <text>::run</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgIGlmIChtX2lzTW92aW5nVXApCiAgICAgICAgbW92ZW1lbnQueSAtPSAxLjBmOwo=</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIH0K</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB1cGRhdGUoZGVsdGFUaW1lKTsK</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">ICAgICAgICB0aW1lU2luY2VMYXN0VXBkYXRlICs9IGNsb2NrLnJlc3RhcnQoKTsK</text>
       </register>
       <register name="4" type="2">
-        <text encoding="base64">ICAgICAgICBpZiAoZXZlbnQudHlwZSA9PSBzZjo6RXZlbnQ6OkNsb3NlZCkKICAgICAgICAgICAgbV93aW5kb3cuY2xvc2UoKTsK</text>
+        <text encoding="base64">ICAgIHNmOjpDbG9jayBjbG9jazsK</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">ICAgIHNoYXBlLnNldFJhZGl1cyg4MC5mKTsKICAgIHNoYXBlLnNldFBvc2l0aW9uKDIwMC5mLCAyMDAuZik7CiAgICBzaGFwZS5zZXRGaWxsQ29sb3Ioc2Y6OkNvbG9yOjpDeWFuKTsKCg==</text>
+        <text encoding="base64">ICAgIH0K</text>
       </register>
       <register name="6" type="2">
-        <text encoding="base64">ICAgIHNmOjpDaXJjbGVTaGFwZSBzaGFwZTsK</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIHNmOjpDaXJjbGVTaGFwZSBzaGFwZTsKICAgIHNoYXBlLnNldFJhZGl1cyg4MC5mKTsKICAgIHNoYXBlLnNldFBvc2l0aW9uKDIwMC5mLCAyMDAuZik7CiAgICBzaGFwZS5zZXRGaWxsQ29sb3Ioc2Y6OkNvbG9yOjpDeWFuKTsKCg==</text>
-      </register>
-      <register name="8" type="2">
         <text encoding="base64">Cg==</text>
       </register>
+      <register name="7" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">ICAgICAgICBpZiAoZXZlbnQudHlwZSA9PSBzZjo6RXZlbnQ6OkNsb3NlZCkKICAgICAgICAgICAgbV93aW5kb3cuY2xvc2UoKTsK</text>
+      </register>
       <register name="9" type="2">
-        <text encoding="base64">ICAgIG1fd2luZG93LmNsZWFyKCk7CiAgICBtX3dpbmRvdy5kcmF3KHNoYXBlKTsKICAgIG1fd2luZG93LmRpc3BsYXkoKTsK</text>
+        <text encoding="base64">ICAgIHNoYXBlLnNldFJhZGl1cyg4MC5mKTsKICAgIHNoYXBlLnNldFBvc2l0aW9uKDIwMC5mLCAyMDAuZik7CiAgICBzaGFwZS5zZXRGaWxsQ29sb3Ioc2Y6OkNvbG9yOjpDeWFuKTsKCg==</text>
       </register>
       <register name=":" type="4">
         <text>w</text>
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx1cGRhdGVcPg==</last-search>
+      <last-search>::run</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx1cGRhdGVcPg==</last-pattern>
+      <last-pattern>::run</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
       <history-search>
         <entry encoding="base64">XDx1cGRhdGVcPg==</entry>
+        <entry encoding="base64">XDxoYW5kbGVQbGF5ZXJJbnB1dFw+</entry>
+        <entry>::run</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
