@@ -1,4 +1,8 @@
 <keymap version="1" name="My macOS Keymap" parent="Mac OS X 10.5+">
+  <action id="CopyElement" />
+  <action id="Debug">
+    <keyboard-shortcut first-keystroke="f5" />
+  </action>
   <action id="FindNext" />
   <action id="GotoDeclaration">
     <mouse-shortcut keystroke="meta button1" />
