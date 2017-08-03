@@ -1,6 +1,6 @@
 <application>
-  <component name="XmlEditorOptions">
-    <option name="showCssColorPreviewInGutter" value="false" />
-    <option name="showCssInlineColorPreview" value="true" />
+  <component name="SqlEditorOptions">
+    <option name="concatenateStringsOnEnter" value="true" />
+    <option name="qualificationType" value="On collisions" />
   </component>
 </application>
