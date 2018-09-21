@@ -2,137 +2,14 @@
   <component name="VimSettings">
     <state version="4" enabled="true" />
     <globalmarks />
-    <filemarks>
-      <file name="/Dummy.txt" timestamp="1489287557528">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/sfml-sample/Game.cpp" timestamp="1489756223849">
-        <mark key="'" line="112" column="47" />
-        <mark key="[" line="22" column="28" />
-        <mark key="]" line="22" column="28" />
-        <mark key="^" line="22" column="28" />
-        <mark key="." line="22" column="28" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/sfml-sample/main.cpp" timestamp="1489673144348">
-        <mark key="[" line="6" column="15" />
-        <mark key="]" line="7" column="12" />
-        <mark key="^" line="7" column="12" />
-        <mark key="." line="7" column="12" />
-      </file>
-      <file name="/fragment.mm" timestamp="1489755718211">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/sfml-sample/conanfile.txt" timestamp="1488810278864">
-        <mark key="[" line="1" column="32" />
-        <mark key="]" line="1" column="31" />
-        <mark key="^" line="1" column="31" />
-        <mark key="." line="1" column="31" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/sfml-sample/CMakeLists.txt" timestamp="1488895491939">
-        <mark key="[" line="5" column="25" />
-        <mark key="]" line="12" column="0" />
-        <mark key="." line="12" column="0" />
-      </file>
-      <file name="/LLDB" timestamp="1489754997815">
-        <mark key="[" line="0" column="0" />
-      </file>
-      <file name="$USER_HOME$/CLionProjects/sfml-sample/Game.h" timestamp="1489755849946">
-        <mark key="'" line="7" column="4" />
-        <mark key="[" line="21" column="29" />
-        <mark key="]" line="22" column="18" />
-        <mark key="." line="22" column="18" />
-        <mark key="^" line="22" column="18" />
-      </file>
-    </filemarks>
-    <jumps>
-      <jump line="55" column="33" filename="$USER_HOME$/CLionProjects/sfml-sample/Game.cpp" />
-      <jump line="43" column="11" filename="$USER_HOME$/CLionProjects/sfml-sample/Game.cpp" />
-      <jump line="69" column="11" filename="$USER_HOME$/CLionProjects/sfml-sample/Game.cpp" />
-      <jump line="48" column="15" filename="$USER_HOME$/CLionProjects/sfml-sample/Game.cpp" />
-      <jump line="35" column="11" filename="$USER_HOME$/CLionProjects/sfml-sample/Game.cpp" />
-      <jump line="7" column="4" filename="$USER_HOME$/CLionProjects/sfml-sample/Game.h" />
-      <jump line="21" column="32" filename="$USER_HOME$/CLionProjects/sfml-sample/Game.cpp" />
-      <jump line="82" column="31" filename="$USER_HOME$/CLionProjects/sfml-sample/Game.cpp" />
-      <jump line="102" column="17" filename="$USER_HOME$/CLionProjects/sfml-sample/Game.cpp" />
-      <jump line="0" column="0" filename="$USER_HOME$/CLionProjects/sfml-sample/Game.cpp" />
-      <jump line="112" column="47" filename="$USER_HOME$/CLionProjects/sfml-sample/Game.cpp" />
-    </jumps>
-    <registers>
-      <register name="a" type="2">
-        <text encoding="base64">ICAgIHNmOjpSZW5kZXJXaW5kb3cgd2luZG93KHNmOjpWaWRlb01vZGUoMTI4MCwgOTYwKSwgIlNGTUwgQXBwbGljYXRpb24iKTsK</text>
-      </register>
-      <register name="&quot;" type="4">
-        <text>44</text>
-      </register>
-      <register name="-" type="4">
-        <text>44</text>
-      </register>
-      <register name="/" type="4">
-        <text>::run</text>
-      </register>
-      <register name="0" type="2">
-        <text encoding="base64">ICAgIGlmIChtX2lzTW92aW5nVXApCiAgICAgICAgbW92ZW1lbnQueSAtPSAxLjBmOwo=</text>
-      </register>
-      <register name="1" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="2" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
-      <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="4" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="5" type="2">
-        <text encoding="base64">ICAgIG1fcGxheWVyLnNldFRleHR1cmUobV90ZXh0dXJlKTsKICAgIG1fcGxheWVyLnNldFBvc2l0aW9uKDIwMC5mLCAyMDAuZik7Cg==</text>
-      </register>
-      <register name="6" type="2">
-        <text encoding="base64">ICAgIG1fcGxheWVyLnNldEZpbGxDb2xvcihzZjo6Q29sb3I6OkN5YW4pOwo=</text>
-      </register>
-      <register name="7" type="2">
-        <text encoding="base64">ICAgIAo=</text>
-      </register>
-      <register name="8" type="2">
-        <text encoding="base64">Cg==</text>
-      </register>
-      <register name="9" type="2">
-        <text encoding="base64">ICAgICAgICB1cGRhdGUoZGVsdGFUaW1lKTsK</text>
-      </register>
-      <register name=":" type="4">
-        <text>w</text>
-      </register>
-    </registers>
+    <filemarks />
+    <jumps />
+    <registers />
     <search>
-      <last-search>::run</last-search>
-      <last-offset />
-      <last-pattern>::run</last-pattern>
-      <last-dir>1</last-dir>
+      <last-dir>0</last-dir>
       <show-last>false</show-last>
     </search>
-    <history>
-      <history-search>
-        <entry encoding="base64">XDx1cGRhdGVcPg==</entry>
-        <entry encoding="base64">XDxoYW5kbGVQbGF5ZXJJbnB1dFw+</entry>
-        <entry>::run</entry>
-      </history-search>
-      <history-cmd>
-        <entry>w</entry>
-      </history-cmd>
-      <history-expr />
-      <history-input />
-    </history>
-    <shortcut-conflicts>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed R</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed H</text>
-      </shortcut-conflict>
-      <shortcut-conflict owner="vim">
-        <text>ctrl pressed N</text>
-      </shortcut-conflict>
-    </shortcut-conflicts>
+    <history />
+    <shortcut-conflicts />
   </component>
 </application>
