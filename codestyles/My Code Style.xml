@@ -1,5 +1,7 @@
-<code_scheme name="My Code Style">
+<code_scheme name="My Code Style" version="173">
+  <option name="LINE_SEPARATOR" value="&#10;" />
   <option name="RIGHT_MARGIN" value="80" />
+  <option name="SOFT_MARGINS" value="80" />
   <Objective-C>
     <option name="INDENT_NAMESPACE_MEMBERS" value="0" />
     <option name="INDENT_INSIDE_CODE_BLOCK" value="8" />
@@ -37,8 +39,8 @@
       <option name="com.jetbrains.cidr.lang.util.OCDeclarationKind" value="DeallocMethod" />
     </class>
     <extensions>
-      <pair source="cpp" header="h" />
-      <pair source="c" header="h" />
+      <pair source="cpp" header="h" fileNamingConvention="NONE" />
+      <pair source="c" header="h" fileNamingConvention="NONE" />
     </extensions>
   </Objective-C-extensions>
   <codeStyleSettings language="HTML">
