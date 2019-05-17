@@ -2,6 +2,7 @@
   <component name="CPPToolchains" version="4">
     <toolchains detectedVersion="5">
       <toolchain name="Default" toolSetKind="SYSTEM_UNIX_TOOLSET" debuggerKind="BUNDLED_GDB" />
+      <toolchain name="wps" toolSetKind="SYSTEM_UNIX_TOOLSET" customCMakePath="/usr/bin/cmake" customCCompilerPath="/usr/bin/clang" customCXXCompilerPath="/usr/bin/clang++" debuggerKind="BUNDLED_GDB" />
     </toolchains>
   </component>
 </application>
