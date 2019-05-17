@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/wps/Coding/framework/kso/fonttable/kffntable.cpp" timestamp="1558077472027">
+        <mark key="'" line="1221" column="12" />
+      </file>
       <file name="$USER_HOME$/projects/c/CMakeLists.txt" timestamp="1539873020804">
         <mark key="[" line="4" column="0" />
         <mark key="]" line="4" column="7" />
@@ -10,7 +13,10 @@
         <mark key="." line="4" column="7" />
       </file>
     </filemarks>
-    <jumps />
+    <jumps>
+      <jump line="1247" column="12" filename="$USER_HOME$/wps/Coding/framework/kso/fonttable/kffntable.cpp" />
+      <jump line="1221" column="12" filename="$USER_HOME$/wps/Coding/framework/kso/fonttable/kffntable.cpp" />
+    </jumps>
     <registers />
     <search>
       <last-dir>0</last-dir>
@@ -22,6 +28,10 @@
       <history-expr />
       <history-input />
     </history>
-    <shortcut-conflicts />
+    <shortcut-conflicts>
+      <shortcut-conflict owner="ide">
+        <text>ctrl pressed T</text>
+      </shortcut-conflict>
+    </shortcut-conflicts>
   </component>
 </application>
