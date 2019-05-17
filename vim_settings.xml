@@ -3,6 +3,9 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
+      <file name="$USER_HOME$/wps/Coding/office/wpp/wppio/import/imp_mediums.cpp" timestamp="1558080826484">
+        <mark key="'" line="204" column="35" />
+      </file>
       <file name="$USER_HOME$/wps/Coding/framework/kso/fonttable/kffntable.cpp" timestamp="1558077472027">
         <mark key="'" line="1221" column="12" />
       </file>
@@ -16,14 +19,26 @@
     <jumps>
       <jump line="1247" column="12" filename="$USER_HOME$/wps/Coding/framework/kso/fonttable/kffntable.cpp" />
       <jump line="1221" column="12" filename="$USER_HOME$/wps/Coding/framework/kso/fonttable/kffntable.cpp" />
+      <jump line="55" column="19" filename="$USER_HOME$/wps/Coding/office/wpp/wppio/import/imp_mediums.cpp" />
+      <jump line="202" column="33" filename="$USER_HOME$/wps/Coding/office/wpp/wppio/import/imp_mediums.cpp" />
+      <jump line="204" column="35" filename="$USER_HOME$/wps/Coding/office/wpp/wppio/import/imp_mediums.cpp" />
     </jumps>
-    <registers />
+    <registers>
+      <register name="/" type="4">
+        <text encoding="base64">XDxtX21kNFw+</text>
+      </register>
+    </registers>
     <search>
-      <last-dir>0</last-dir>
+      <last-search encoding="base64">XDxtX21kNFw+</last-search>
+      <last-offset />
+      <last-pattern encoding="base64">XDxtX21kNFw+</last-pattern>
+      <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
     <history>
-      <history-search />
+      <history-search>
+        <entry encoding="base64">XDxtX21kNFw+</entry>
+      </history-search>
       <history-cmd />
       <history-expr />
       <history-input />
