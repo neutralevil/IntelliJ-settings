@@ -9,7 +9,7 @@
       <file name="/Dummy.txt" timestamp="1558087219355">
         <mark key="[" line="0" column="0" />
       </file>
-      <file name="$USER_HOME$/wps/Coding/io/kso_pres/pptxrw/reader/package_parser.cpp" timestamp="1558087041396">
+      <file name="$USER_HOME$/wps/Coding/io/kso_pres/pptxrw/reader/package_parser.cpp" timestamp="1558339982166">
         <mark key="'" line="185" column="28" />
       </file>
       <file name="$USER_HOME$/wps/Coding/io/kso_draw/dgreader/reader/tools/imageparse.cpp" timestamp="1558086936620">
@@ -92,6 +92,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed P</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed B</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
