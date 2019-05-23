@@ -3,16 +3,40 @@
     <state version="4" enabled="true" />
     <globalmarks />
     <filemarks>
-      <file name="$USER_HOME$/wps/Coding/office/wpp/wppio/import/imp_mediums.cpp" timestamp="1558083155869">
-        <mark key="'" line="204" column="35" />
+      <file name="$USER_HOME$/wps/Coding/shell2/include/kcomctl/ksettings.h" timestamp="1558592961848">
+        <mark key="'" line="0" column="31" />
       </file>
       <file name="/Dummy.txt" timestamp="1558087219355">
         <mark key="[" line="0" column="0" />
       </file>
+      <file name="$USER_HOME$/wps/Coding/include/ksolite/global.h" timestamp="1558592239583">
+        <mark key="'" line="0" column="35" />
+      </file>
+      <file name="$USER_HOME$/wps/Coding/include/ksolite/common.h" timestamp="1558592222719">
+        <mark key="'" line="0" column="41" />
+      </file>
+      <file name="$USER_HOME$/wps/Coding/framework/kso/fonttable/kffntable.cpp" timestamp="1558077472027">
+        <mark key="'" line="1221" column="12" />
+      </file>
+      <file name="$USER_HOME$/wps/Coding/framework/ksolite/util/ksettings.h" timestamp="1558593129339">
+        <mark key="[" line="32" column="2" />
+      </file>
+      <file name="$USER_HOME$/wps/Coding/framework/ksolite/util/common.h" timestamp="1558592237378">
+        <mark key="'" line="3" column="20" />
+      </file>
+      <file name="$USER_HOME$/projects/c/CMakeLists.txt" timestamp="1539873020804">
+        <mark key="[" line="4" column="0" />
+        <mark key="]" line="4" column="7" />
+        <mark key="^" line="4" column="7" />
+        <mark key="." line="4" column="7" />
+      </file>
+      <file name="$USER_HOME$/wps/Coding/office/wpp/wppio/import/imp_mediums.cpp" timestamp="1558083155869">
+        <mark key="'" line="204" column="35" />
+      </file>
       <file name="$USER_HOME$/wps/Coding/io/kso_pres/pptxrw/reader/package_parser.cpp" timestamp="1558339982166">
         <mark key="'" line="185" column="28" />
       </file>
-      <file name="$USER_HOME$/wps/Coding/shell2/plugins/kwpslive/common/common.h" timestamp="1558582901917">
+      <file name="$USER_HOME$/wps/Coding/shell2/plugins/kwpslive/common/common.h" timestamp="1558592802381">
         <mark key="'" line="216" column="18" />
       </file>
       <file name="$USER_HOME$/wps/Coding/io/kso_draw/dgreader/reader/tools/imageparse.cpp" timestamp="1558086936620">
@@ -22,11 +46,8 @@
         <mark key="." line="233" column="28" />
         <mark key="^" line="544" column="48" />
       </file>
-      <file name="$USER_HOME$/wps/Coding/shell2/plugins/kwpslive/common/common.cpp" timestamp="1558582968014">
-        <mark key="'" line="525" column="5" />
-      </file>
-      <file name="$USER_HOME$/wps/Coding/framework/kso/fonttable/kffntable.cpp" timestamp="1558077472027">
-        <mark key="'" line="1221" column="12" />
+      <file name="$USER_HOME$/wps/Coding/shell2/plugins/kwpslive/common/common.cpp" timestamp="1558592804669">
+        <mark key="'" line="525" column="13" />
       </file>
       <file name="$USER_HOME$/wps/Coding/include/kfc/allocator/impl/lockbuffer_impl.h" timestamp="1558087081826">
         <mark key="[" line="84" column="28" />
@@ -34,11 +55,11 @@
         <mark key="." line="84" column="40" />
         <mark key="^" line="84" column="40" />
       </file>
-      <file name="$USER_HOME$/projects/c/CMakeLists.txt" timestamp="1539873020804">
-        <mark key="[" line="4" column="0" />
-        <mark key="]" line="4" column="7" />
-        <mark key="^" line="4" column="7" />
-        <mark key="." line="4" column="7" />
+      <file name="$USER_HOME$/wps/Coding/shell2/kxshare/src/kxsettings.h" timestamp="1558592959946">
+        <mark key="'" line="4" column="24" />
+      </file>
+      <file name="$USER_HOME$/wps/Coding/framework/ksolite/util/ksettings.cpp" timestamp="1558592902817">
+        <mark key="'" line="4" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -56,8 +77,16 @@
       <jump line="409" column="23" filename="$USER_HOME$/wps/Coding/io/kso_draw/dgreader/reader/tools/imageparse.cpp" />
       <jump line="185" column="28" filename="$USER_HOME$/wps/Coding/io/kso_pres/pptxrw/reader/package_parser.cpp" />
       <jump line="2658" column="23" filename="$USER_HOME$/wps/Coding/office/wpp/wppcore/shellapp/presentation.cpp" />
+      <jump line="524" column="0" filename="$USER_HOME$/wps/Coding/shell2/plugins/kwpslive/common/common.cpp" />
+      <jump line="15" column="21" filename="$USER_HOME$/wps/Coding/shell2/plugins/kwpslive/common/common.cpp" />
+      <jump line="0" column="41" filename="$USER_HOME$/wps/Coding/include/ksolite/common.h" />
+      <jump line="3" column="20" filename="$USER_HOME$/wps/Coding/framework/ksolite/util/common.h" />
+      <jump line="0" column="35" filename="$USER_HOME$/wps/Coding/include/ksolite/global.h" />
       <jump line="216" column="18" filename="$USER_HOME$/wps/Coding/shell2/plugins/kwpslive/common/common.h" />
-      <jump line="525" column="5" filename="$USER_HOME$/wps/Coding/shell2/plugins/kwpslive/common/common.cpp" />
+      <jump line="525" column="13" filename="$USER_HOME$/wps/Coding/shell2/plugins/kwpslive/common/common.cpp" />
+      <jump line="4" column="20" filename="$USER_HOME$/wps/Coding/framework/ksolite/util/ksettings.cpp" />
+      <jump line="4" column="24" filename="$USER_HOME$/wps/Coding/shell2/kxshare/src/kxsettings.h" />
+      <jump line="0" column="31" filename="$USER_HOME$/wps/Coding/shell2/include/kcomctl/ksettings.h" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
