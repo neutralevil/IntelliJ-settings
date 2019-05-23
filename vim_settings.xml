@@ -18,11 +18,11 @@
       <file name="$USER_HOME$/wps/Coding/framework/kso/fonttable/kffntable.cpp" timestamp="1558077472027">
         <mark key="'" line="1221" column="12" />
       </file>
-      <file name="$USER_HOME$/wps/Coding/framework/ksolite/util/ksettings.h" timestamp="1558593844931">
-        <mark key="[" line="34" column="0" />
-        <mark key="]" line="34" column="41" />
-        <mark key="^" line="34" column="40" />
-        <mark key="." line="34" column="40" />
+      <file name="$USER_HOME$/wps/Coding/framework/ksolite/util/ksettings.h" timestamp="1558599225174">
+        <mark key="[" line="34" column="39" />
+        <mark key="]" line="34" column="66" />
+        <mark key="^" line="34" column="38" />
+        <mark key="." line="34" column="39" />
       </file>
       <file name="$USER_HOME$/wps/Coding/framework/ksolite/util/common.h" timestamp="1558592237378">
         <mark key="'" line="3" column="20" />
@@ -49,8 +49,11 @@
         <mark key="." line="233" column="28" />
         <mark key="^" line="544" column="48" />
       </file>
-      <file name="$USER_HOME$/wps/Coding/shell2/plugins/kwpslive/common/common.cpp" timestamp="1558592804669">
-        <mark key="'" line="525" column="13" />
+      <file name="$USER_HOME$/wps/Coding/shell2/plugins/kwpslive/common/common.cpp" timestamp="1558600495801">
+        <mark key="[" line="532" column="0" />
+        <mark key="]" line="532" column="0" />
+        <mark key="^" line="532" column="6" />
+        <mark key="." line="532" column="0" />
       </file>
       <file name="$USER_HOME$/wps/Coding/include/kfc/allocator/impl/lockbuffer_impl.h" timestamp="1558087081826">
         <mark key="[" line="84" column="28" />
@@ -61,10 +64,10 @@
       <file name="$USER_HOME$/wps/Coding/shell2/kxshare/src/kxsettings.h" timestamp="1558592959946">
         <mark key="'" line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/wps/Coding/framework/ksolite/util/ksettings.cpp" timestamp="1558594514545">
+      <file name="$USER_HOME$/wps/Coding/framework/ksolite/util/ksettings.cpp" timestamp="1558599206657">
         <mark key="'" line="31" column="0" />
-        <mark key="[" line="1" column="22" />
-        <mark key="]" line="2" column="20" />
+        <mark key="[" line="57" column="39" />
+        <mark key="]" line="57" column="65" />
         <mark key="." line="2" column="20" />
         <mark key="^" line="2" column="20" />
       </file>
@@ -97,19 +100,25 @@
       <jump line="28" column="0" filename="$USER_HOME$/wps/Coding/framework/ksolite/util/ksettings.cpp" />
     </jumps>
     <registers>
-      <register name="0" type="2">
-        <text encoding="base64">dm9pZCBLU09MSVRFX0VYUE9SVCB3cml0ZVNldHRpbmdzQXN5bmMoKTsK</text>
+      <register name="0" type="4">
+        <text encoding="base64">c3RkOjpmdW5jdGlvbjx2b2lkKHZvaWQpPiBm</text>
       </register>
       <register name="1" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="&quot;" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">ICAgICAgICAK</text>
       </register>
       <register name="2" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CUt4UGx1Z2luc1NldHRpbmdzIF9yZWdpc3RlcjsKCV9yZWdpc3Rlci5iZWdpbkdyb3VwKCJvZmZpY2VzcGFjZSIpOwoJX3JlZ2lzdGVyLmJlZ2luR3JvdXAoc3ViUGF0aCk7CglfcmVnaXN0ZXIuc2V0VmFsdWUoa2V5LCB2YWwpOwo=</text>
       </register>
       <register name="3" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="4" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="5" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
