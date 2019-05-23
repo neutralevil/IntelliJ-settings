@@ -18,8 +18,11 @@
       <file name="$USER_HOME$/wps/Coding/framework/kso/fonttable/kffntable.cpp" timestamp="1558077472027">
         <mark key="'" line="1221" column="12" />
       </file>
-      <file name="$USER_HOME$/wps/Coding/framework/ksolite/util/ksettings.h" timestamp="1558593129339">
-        <mark key="[" line="32" column="2" />
+      <file name="$USER_HOME$/wps/Coding/framework/ksolite/util/ksettings.h" timestamp="1558593844931">
+        <mark key="[" line="34" column="0" />
+        <mark key="]" line="34" column="41" />
+        <mark key="^" line="34" column="40" />
+        <mark key="." line="34" column="40" />
       </file>
       <file name="$USER_HOME$/wps/Coding/framework/ksolite/util/common.h" timestamp="1558592237378">
         <mark key="'" line="3" column="20" />
@@ -58,8 +61,12 @@
       <file name="$USER_HOME$/wps/Coding/shell2/kxshare/src/kxsettings.h" timestamp="1558592959946">
         <mark key="'" line="4" column="24" />
       </file>
-      <file name="$USER_HOME$/wps/Coding/framework/ksolite/util/ksettings.cpp" timestamp="1558592902817">
-        <mark key="'" line="4" column="20" />
+      <file name="$USER_HOME$/wps/Coding/framework/ksolite/util/ksettings.cpp" timestamp="1558594514545">
+        <mark key="'" line="31" column="0" />
+        <mark key="[" line="1" column="22" />
+        <mark key="]" line="2" column="20" />
+        <mark key="." line="2" column="20" />
+        <mark key="^" line="2" column="20" />
       </file>
     </filemarks>
     <jumps>
@@ -87,10 +94,23 @@
       <jump line="4" column="20" filename="$USER_HOME$/wps/Coding/framework/ksolite/util/ksettings.cpp" />
       <jump line="4" column="24" filename="$USER_HOME$/wps/Coding/shell2/kxshare/src/kxsettings.h" />
       <jump line="0" column="31" filename="$USER_HOME$/wps/Coding/shell2/include/kcomctl/ksettings.h" />
+      <jump line="28" column="0" filename="$USER_HOME$/wps/Coding/framework/ksolite/util/ksettings.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="4">
-        <text>GHND</text>
+      <register name="0" type="2">
+        <text encoding="base64">dm9pZCBLU09MSVRFX0VYUE9SVCB3cml0ZVNldHRpbmdzQXN5bmMoKTsK</text>
+      </register>
+      <register name="1" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgIAo=</text>
+      </register>
+      <register name="2" type="2">
+        <text encoding="base64">Cg==</text>
+      </register>
+      <register name="3" type="2">
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="-" type="4">
         <text>GHND</text>
