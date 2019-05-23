@@ -12,12 +12,18 @@
       <file name="$USER_HOME$/wps/Coding/io/kso_pres/pptxrw/reader/package_parser.cpp" timestamp="1558339982166">
         <mark key="'" line="185" column="28" />
       </file>
+      <file name="$USER_HOME$/wps/Coding/shell2/plugins/kwpslive/common/common.h" timestamp="1558582901917">
+        <mark key="'" line="216" column="18" />
+      </file>
       <file name="$USER_HOME$/wps/Coding/io/kso_draw/dgreader/reader/tools/imageparse.cpp" timestamp="1558086936620">
         <mark key="'" line="409" column="23" />
         <mark key="[" line="233" column="28" />
         <mark key="]" line="233" column="28" />
         <mark key="." line="233" column="28" />
         <mark key="^" line="544" column="48" />
+      </file>
+      <file name="$USER_HOME$/wps/Coding/shell2/plugins/kwpslive/common/common.cpp" timestamp="1558582968014">
+        <mark key="'" line="525" column="5" />
       </file>
       <file name="$USER_HOME$/wps/Coding/framework/kso/fonttable/kffntable.cpp" timestamp="1558077472027">
         <mark key="'" line="1221" column="12" />
@@ -49,6 +55,9 @@
       <jump line="380" column="16" filename="$USER_HOME$/wps/Coding/io/kso_draw/dgreader/reader/tools/imageparse.cpp" />
       <jump line="409" column="23" filename="$USER_HOME$/wps/Coding/io/kso_draw/dgreader/reader/tools/imageparse.cpp" />
       <jump line="185" column="28" filename="$USER_HOME$/wps/Coding/io/kso_pres/pptxrw/reader/package_parser.cpp" />
+      <jump line="2658" column="23" filename="$USER_HOME$/wps/Coding/office/wpp/wppcore/shellapp/presentation.cpp" />
+      <jump line="216" column="18" filename="$USER_HOME$/wps/Coding/shell2/plugins/kwpslive/common/common.h" />
+      <jump line="525" column="5" filename="$USER_HOME$/wps/Coding/shell2/plugins/kwpslive/common/common.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -95,6 +104,9 @@
       </shortcut-conflict>
       <shortcut-conflict owner="vim">
         <text>ctrl pressed B</text>
+      </shortcut-conflict>
+      <shortcut-conflict owner="vim">
+        <text>ctrl pressed O</text>
       </shortcut-conflict>
     </shortcut-conflicts>
   </component>
