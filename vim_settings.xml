@@ -12,7 +12,7 @@
       <file name="$USER_HOME$/wps/Coding/include/ksolite/global.h" timestamp="1558592239583">
         <mark key="'" line="0" column="35" />
       </file>
-      <file name="$USER_HOME$/wps/Coding/include/ksolite/common.h" timestamp="1558592222719">
+      <file name="$USER_HOME$/wps/Coding/include/ksolite/common.h" timestamp="1558601328220">
         <mark key="'" line="0" column="41" />
       </file>
       <file name="$USER_HOME$/wps/Coding/framework/kso/fonttable/kffntable.cpp" timestamp="1558077472027">
@@ -36,6 +36,14 @@
       <file name="$USER_HOME$/wps/Coding/office/wpp/wppio/import/imp_mediums.cpp" timestamp="1558083155869">
         <mark key="'" line="204" column="35" />
       </file>
+      <file name="$USER_HOME$/wps/Coding/shell2/plugins/officespace/src/kosunit.cpp" timestamp="1558603073655">
+        <mark key="a" line="1485" column="0" />
+        <mark key="'" line="33" column="29" />
+        <mark key="[" line="1492" column="0" />
+        <mark key="]" line="1492" column="8" />
+        <mark key="^" line="1493" column="6" />
+        <mark key="." line="1492" column="8" />
+      </file>
       <file name="$USER_HOME$/wps/Coding/io/kso_pres/pptxrw/reader/package_parser.cpp" timestamp="1558339982166">
         <mark key="'" line="185" column="28" />
       </file>
@@ -49,11 +57,12 @@
         <mark key="." line="233" column="28" />
         <mark key="^" line="544" column="48" />
       </file>
-      <file name="$USER_HOME$/wps/Coding/shell2/plugins/kwpslive/common/common.cpp" timestamp="1558600495801">
-        <mark key="[" line="532" column="0" />
-        <mark key="]" line="532" column="0" />
-        <mark key="^" line="532" column="6" />
-        <mark key="." line="532" column="0" />
+      <file name="$USER_HOME$/wps/Coding/shell2/plugins/kwpslive/common/common.cpp" timestamp="1558601358561">
+        <mark key="'" line="15" column="22" />
+        <mark key="[" line="16" column="28" />
+        <mark key="]" line="16" column="28" />
+        <mark key="^" line="16" column="28" />
+        <mark key="." line="16" column="28" />
       </file>
       <file name="$USER_HOME$/wps/Coding/include/kfc/allocator/impl/lockbuffer_impl.h" timestamp="1558087081826">
         <mark key="[" line="84" column="28" />
@@ -61,8 +70,8 @@
         <mark key="." line="84" column="40" />
         <mark key="^" line="84" column="40" />
       </file>
-      <file name="$USER_HOME$/wps/Coding/shell2/kxshare/src/kxsettings.h" timestamp="1558592959946">
-        <mark key="'" line="4" column="24" />
+      <file name="$USER_HOME$/wps/Coding/shell2/kxshare/src/kxsettings.h" timestamp="1558602986904">
+        <mark key="'" line="6" column="19" />
       </file>
       <file name="$USER_HOME$/wps/Coding/framework/ksolite/util/ksettings.cpp" timestamp="1558599206657">
         <mark key="'" line="31" column="0" />
@@ -88,8 +97,6 @@
       <jump line="185" column="28" filename="$USER_HOME$/wps/Coding/io/kso_pres/pptxrw/reader/package_parser.cpp" />
       <jump line="2658" column="23" filename="$USER_HOME$/wps/Coding/office/wpp/wppcore/shellapp/presentation.cpp" />
       <jump line="524" column="0" filename="$USER_HOME$/wps/Coding/shell2/plugins/kwpslive/common/common.cpp" />
-      <jump line="15" column="21" filename="$USER_HOME$/wps/Coding/shell2/plugins/kwpslive/common/common.cpp" />
-      <jump line="0" column="41" filename="$USER_HOME$/wps/Coding/include/ksolite/common.h" />
       <jump line="3" column="20" filename="$USER_HOME$/wps/Coding/framework/ksolite/util/common.h" />
       <jump line="0" column="35" filename="$USER_HOME$/wps/Coding/include/ksolite/global.h" />
       <jump line="216" column="18" filename="$USER_HOME$/wps/Coding/shell2/plugins/kwpslive/common/common.h" />
@@ -98,34 +105,53 @@
       <jump line="4" column="24" filename="$USER_HOME$/wps/Coding/shell2/kxshare/src/kxsettings.h" />
       <jump line="0" column="31" filename="$USER_HOME$/wps/Coding/shell2/include/kcomctl/ksettings.h" />
       <jump line="28" column="0" filename="$USER_HOME$/wps/Coding/framework/ksolite/util/ksettings.cpp" />
+      <jump line="15" column="22" filename="$USER_HOME$/wps/Coding/shell2/plugins/kwpslive/common/common.cpp" />
+      <jump line="0" column="41" filename="$USER_HOME$/wps/Coding/include/ksolite/common.h" />
+      <jump line="1484" column="0" filename="$USER_HOME$/wps/Coding/shell2/plugins/officespace/src/kosunit.cpp" />
+      <jump line="1" column="0" filename="$USER_HOME$/wps/Coding/shell2/plugins/officespace/src/kosunit.cpp" />
+      <jump line="6" column="19" filename="$USER_HOME$/wps/Coding/shell2/kxshare/src/kxsettings.h" />
+      <jump line="1485" column="6" filename="$USER_HOME$/wps/Coding/shell2/plugins/officespace/src/kosunit.cpp" />
+      <jump line="33" column="29" filename="$USER_HOME$/wps/Coding/shell2/plugins/officespace/src/kosunit.cpp" />
     </jumps>
     <registers>
-      <register name="0" type="4">
-        <text encoding="base64">c3RkOjpmdW5jdGlvbjx2b2lkKHZvaWQpPiBm</text>
+      <register name="&quot;" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="-" type="4">
+        <text>cpp</text>
+      </register>
+      <register name="/" type="4">
+        <text encoding="base64">XDxYR2xvYmFsQWxsb2NcPg==</text>
+      </register>
+      <register name="0" type="2">
+        <text encoding="base64">CXVpbnQgdCA9IFFEYXRlVGltZTo6Y3VycmVudERhdGVUaW1lKCkudG9UaW1lX3QoKTsK</text>
       </register>
       <register name="1" type="2">
         <text encoding="base64">ICAgICAgICAK</text>
       </register>
-      <register name="&quot;" type="2">
-        <text encoding="base64">ICAgICAgICAK</text>
-      </register>
       <register name="2" type="2">
-        <text encoding="base64">CUt4UGx1Z2luc1NldHRpbmdzIF9yZWdpc3RlcjsKCV9yZWdpc3Rlci5iZWdpbkdyb3VwKCJvZmZpY2VzcGFjZSIpOwoJX3JlZ2lzdGVyLmJlZ2luR3JvdXAoc3ViUGF0aCk7CglfcmVnaXN0ZXIuc2V0VmFsdWUoa2V5LCB2YWwpOwo=</text>
+        <text encoding="base64">CUt4U2V0dGluZ3Mgc2V0dGluZ3M7CglzZXR0aW5ncy5iZWdpbkdyb3VwKCJSZWNlbnRGaWxlcy9TZXF1ZW5jZS8iKTsKCXNldHRpbmdzLnNldFZhbHVlKHRtcFBhdGgsIFFTdHJpbmcoIiUxIikuYXJnKHQpKTsKCXNldHRpbmdzLmVuZEdyb3VwKCk7Cg==</text>
       </register>
       <register name="3" type="2">
-        <text encoding="base64">ICAgIAo=</text>
+        <text encoding="base64">Cg==</text>
       </register>
       <register name="4" type="2">
         <text encoding="base64">Cg==</text>
       </register>
       <register name="5" type="2">
-        <text encoding="base64">Cg==</text>
+        <text encoding="base64">CXVpbnQgdCA9IFFEYXRlVGltZTo6Y3VycmVudERhdGVUaW1lKCkudG9UaW1lX3QoKTsK</text>
       </register>
-      <register name="-" type="4">
-        <text>GHND</text>
+      <register name="6" type="2">
+        <text encoding="base64">I2luY2x1ZGUgPGluY2x1ZGUva3NvbGl0ZS9rc2V0dGluZ3MuaD4K</text>
       </register>
-      <register name="/" type="4">
-        <text encoding="base64">XDxYR2xvYmFsQWxsb2NcPg==</text>
+      <register name="7" type="2">
+        <text encoding="base64">ICAgICAgICAK</text>
+      </register>
+      <register name="8" type="2">
+        <text encoding="base64">CUt4UGx1Z2luc1NldHRpbmdzIF9yZWdpc3RlcjsKCV9yZWdpc3Rlci5iZWdpbkdyb3VwKCJvZmZpY2VzcGFjZSIpOwoJX3JlZ2lzdGVyLmJlZ2luR3JvdXAoc3ViUGF0aCk7CglfcmVnaXN0ZXIuc2V0VmFsdWUoa2V5LCB2YWwpOwo=</text>
+      </register>
+      <register name="9" type="2">
+        <text encoding="base64">ICAgIAo=</text>
       </register>
     </registers>
     <search>
