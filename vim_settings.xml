@@ -31,10 +31,11 @@
         <mark key="^" line="708" column="6" />
         <mark key="." line="708" column="6" />
       </file>
-      <file name="$USER_HOME$/wps/Coding/shell2/plugins/kwpslive_linux/common/common.cpp" timestamp="1558604857338">
-        <mark key="[" line="434" column="0" />
-        <mark key="]" line="434" column="8" />
-        <mark key="." line="434" column="8" />
+      <file name="$USER_HOME$/wps/Coding/shell2/plugins/kwpslive_linux/common/common.cpp" timestamp="1558607365268">
+        <mark key="[" line="435" column="6" />
+        <mark key="]" line="435" column="6" />
+        <mark key="." line="435" column="6" />
+        <mark key="^" line="435" column="6" />
       </file>
       <file name="$USER_HOME$/wps/Coding/framework/ksolite/util/ksettings.h" timestamp="1558599225174">
         <mark key="[" line="34" column="39" />
@@ -94,7 +95,7 @@
       <file name="$USER_HOME$/wps/Coding/shell2/kxshare/src/kxsettings.h" timestamp="1558602986904">
         <mark key="'" line="6" column="19" />
       </file>
-      <file name="$USER_HOME$/wps/Coding/framework/ksolite/util/ksettings.cpp" timestamp="1558605638225">
+      <file name="$USER_HOME$/wps/Coding/framework/ksolite/util/ksettings.cpp" timestamp="1558607354271">
         <mark key="'" line="31" column="0" />
         <mark key="[" line="57" column="39" />
         <mark key="]" line="57" column="65" />
