@@ -11,9 +11,9 @@
       </file>
       <file name="$USER_HOME$/wps/Coding/shell2/plugins/kwpslive_linux/common/common.cpp" timestamp="1558683559712">
         <mark key="'" line="429" column="5" />
-        <mark key="[" line="455" column="12" />
-        <mark key="]" line="455" column="13" />
-        <mark key="." line="455" column="13" />
+        <mark key="[" line="435" column="12" />
+        <mark key="]" line="435" column="13" />
+        <mark key="." line="435" column="13" />
         <mark key="^" line="435" column="17" />
       </file>
       <file name="$USER_HOME$/wps/Coding/framework/ksolite/util/common.h" timestamp="1558592237378">
@@ -22,7 +22,7 @@
       <file name="$USER_HOME$/wps/Coding/framework/ksolite/kernel/kcoreapplication.cpp" timestamp="1558682147355">
         <mark key="'" line="208" column="22" />
       </file>
-      <file name="$USER_HOME$/wps/Coding/shell2/plugins/officespace/src/kosunit.cpp" timestamp="1558682613918">
+      <file name="$USER_HOME$/wps/Coding/shell2/plugins/officespace/src/kosunit.cpp" timestamp="1558684841752">
         <mark key="a" line="1485" column="0" />
         <mark key="'" line="1489" column="12" />
         <mark key="[" line="1615" column="0" />
@@ -40,10 +40,9 @@
         <mark key="'" line="209" column="5" />
       </file>
       <file name="$USER_HOME$/wps/Coding/shell2/plugins/kwpslive/common/common.cpp" timestamp="1558683512648">
-        <mark key="'" line="526" column="5" />
         <mark key="[" line="506" column="12" />
         <mark key="]" line="506" column="13" />
-        <mark key="^" line="533" column="17" />
+        <mark key="^" line="506" column="17" />
         <mark key="." line="506" column="13" />
       </file>
       <file name="$USER_HOME$/wps/Coding/include/kfc/allocator/impl/lockbuffer_impl.h" timestamp="1558087081826">
@@ -106,9 +105,9 @@
         <mark key="'" line="39" column="11" />
       </file>
       <file name="$USER_HOME$/wps/Coding/shell2/kcomctl/src/ksettings.cpp" timestamp="1558684080477">
-        <mark key="[" line="176" column="0" />
-        <mark key="]" line="176" column="0" />
-        <mark key="." line="176" column="0" />
+        <mark key="[" line="177" column="0" />
+        <mark key="]" line="177" column="0" />
+        <mark key="." line="177" column="0" />
       </file>
       <file name="$USER_HOME$/wps/Coding/io/kso_pres/pptxrw/reader/package_parser.cpp" timestamp="1558339982166">
         <mark key="'" line="185" column="28" />
