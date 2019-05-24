@@ -76,6 +76,9 @@
       <file name="$USER_HOME$/wps/Coding/framework/kso/userinfo/ksouserinfo.cpp" timestamp="1558679039145">
         <mark key="'" line="126" column="13" />
       </file>
+      <file name="$USER_HOME$/wps/Coding/office/drawing2/model/flush_abstract_shape.cpp" timestamp="1558690236128">
+        <mark key="'" line="3659" column="23" />
+      </file>
       <file name="$USER_HOME$/wps/Coding/framework/kso/fonttable/kffntable.cpp" timestamp="1558077472027">
         <mark key="'" line="1221" column="12" />
       </file>
@@ -193,6 +196,9 @@
       <jump line="209" column="5" filename="$USER_HOME$/wps/Coding/shell2/plugins/kwpslive/common/common.h" />
       <jump line="525" column="5" filename="$USER_HOME$/wps/Coding/shell2/plugins/kwpslive/common/common.cpp" />
       <jump line="429" column="5" filename="$USER_HOME$/wps/Coding/shell2/plugins/kwpslive_linux/common/common.cpp" />
+      <jump line="3211" column="0" filename="$USER_HOME$/wps/Coding/office/drawing2/model/flush_abstract_shape.cpp" />
+      <jump line="3218" column="36" filename="$USER_HOME$/wps/Coding/office/drawing2/model/flush_abstract_shape.cpp" />
+      <jump line="3659" column="23" filename="$USER_HOME$/wps/Coding/office/drawing2/model/flush_abstract_shape.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -205,7 +211,7 @@
         <text>organizationName</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDx3cml0ZU9mZmljZXNwYWNlUmVnVmFsdWVcPg==</text>
+        <text>hasUn</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludGYoIjMgZ3JvdXA9JXMsIGtleT0lc1xuIiwgX3JlZ2lzdGVyLmdyb3VwKCkudG9VdGY4KCkuY29uc3REYXRhKCksIGtleS50b1V0ZjgoKS5jb25zdERhdGEoKSk7Cg==</text>
@@ -242,9 +248,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDx3cml0ZU9mZmljZXNwYWNlUmVnVmFsdWVcPg==</last-search>
+      <last-search>hasUn</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDx3cml0ZU9mZmljZXNwYWNlUmVnVmFsdWVcPg==</last-pattern>
+      <last-pattern>hasUn</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -255,6 +261,7 @@
         <entry>UpdateLa</entry>
         <entry encoding="base64">XDxtX3BCdWlsZGluUHJvcGVydGllc1w+</entry>
         <entry encoding="base64">XDx3cml0ZU9mZmljZXNwYWNlUmVnVmFsdWVcPg==</entry>
+        <entry>hasUn</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
