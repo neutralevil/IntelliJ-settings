@@ -36,6 +36,9 @@
       <file name="$USER_HOME$/wps/Coding/shell2/kcomctl/src/ksettings.h" timestamp="1558682528119">
         <mark key="'" line="14" column="9" />
       </file>
+      <file name="$USER_HOME$/wps/Coding/shell2/wpp/src/kxwppsubwindow.h" timestamp="1558690832398">
+        <mark key="'" line="69" column="17" />
+      </file>
       <file name="$USER_HOME$/wps/Coding/shell2/plugins/kwpslive/common/common.h" timestamp="1558683439305">
         <mark key="'" line="209" column="5" />
       </file>
@@ -199,6 +202,7 @@
       <jump line="3211" column="0" filename="$USER_HOME$/wps/Coding/office/drawing2/model/flush_abstract_shape.cpp" />
       <jump line="3218" column="36" filename="$USER_HOME$/wps/Coding/office/drawing2/model/flush_abstract_shape.cpp" />
       <jump line="3659" column="23" filename="$USER_HOME$/wps/Coding/office/drawing2/model/flush_abstract_shape.cpp" />
+      <jump line="69" column="17" filename="$USER_HOME$/wps/Coding/shell2/wpp/src/kxwppsubwindow.h" />
     </jumps>
     <registers>
       <register name="a" type="2">
