@@ -69,6 +69,9 @@
       <file name="$USER_HOME$/wps/Coding/io/kso_pres/pptxrw/reader/package_parser.cpp" timestamp="1558339982166">
         <mark key="'" line="185" column="28" />
       </file>
+      <file name="$USER_HOME$/wps/Coding/office/wpp/wppcore/shellapp/presentation_persist.cpp" timestamp="1558670231846">
+        <mark key="'" line="1941" column="12" />
+      </file>
       <file name="$USER_HOME$/wps/Coding/shell2/plugins/kwpslive/common/common.h" timestamp="1558592802381">
         <mark key="'" line="216" column="18" />
       </file>
@@ -145,6 +148,8 @@
       <jump line="703" column="33" filename="$USER_HOME$/wps/Coding/shell2/plugins/officespace/src/dialog/ktabdialogexcontrolimpl.cpp" />
       <jump line="1489" column="27" filename="$USER_HOME$/wps/Coding/shell2/plugins/officespace/src/kosunit.cpp" />
       <jump line="910" column="17" filename="$USER_HOME$/wps/Coding/shell2/plugins/officespace/src/kosunit.cpp" />
+      <jump line="113" column="0" filename="$USER_HOME$/wps/Coding/office/wpp/wppcore/shellapp/presentation_persist.cpp" />
+      <jump line="1941" column="12" filename="$USER_HOME$/wps/Coding/office/wpp/wppcore/shellapp/presentation_persist.cpp" />
     </jumps>
     <registers>
       <register name="&quot;" type="4">
@@ -154,7 +159,7 @@
         <text>m</text>
       </register>
       <register name="/" type="4">
-        <text encoding="base64">XDxYR2xvYmFsQWxsb2NcPg==</text>
+        <text>UpdateLa</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">CXVpbnQgdCA9IFFEYXRlVGltZTo6Y3VycmVudERhdGVUaW1lKCkudG9UaW1lX3QoKTsK</text>
@@ -191,9 +196,9 @@
       </register>
     </registers>
     <search>
-      <last-search encoding="base64">XDxYR2xvYmFsQWxsb2NcPg==</last-search>
+      <last-search>UpdateLa</last-search>
       <last-offset />
-      <last-pattern encoding="base64">XDxYR2xvYmFsQWxsb2NcPg==</last-pattern>
+      <last-pattern>UpdateLa</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -201,6 +206,7 @@
       <history-search>
         <entry encoding="base64">XDxtX21kNFw+</entry>
         <entry encoding="base64">XDxYR2xvYmFsQWxsb2NcPg==</entry>
+        <entry>UpdateLa</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
