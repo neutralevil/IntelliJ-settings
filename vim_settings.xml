@@ -95,6 +95,12 @@
       <file name="$USER_HOME$/wps/Coding/shell2/kxshare/src/kxsettings.h" timestamp="1558602986904">
         <mark key="'" line="6" column="19" />
       </file>
+      <file name="$USER_HOME$/.local/share/JetBrains/Toolbox/apps/CLion/ch-0/191.7141.37.vmoptions" timestamp="1558669884191">
+        <mark key="[" line="2" column="7" />
+        <mark key="]" line="2" column="7" />
+        <mark key="." line="2" column="7" />
+        <mark key="^" line="2" column="6" />
+      </file>
       <file name="$USER_HOME$/wps/Coding/framework/ksolite/util/ksettings.cpp" timestamp="1558607354271">
         <mark key="'" line="31" column="0" />
         <mark key="[" line="57" column="39" />
@@ -141,11 +147,11 @@
       <jump line="910" column="17" filename="$USER_HOME$/wps/Coding/shell2/plugins/officespace/src/kosunit.cpp" />
     </jumps>
     <registers>
-      <register name="&quot;" type="2">
-        <text encoding="base64">Cg==</text>
+      <register name="&quot;" type="4">
+        <text>m</text>
       </register>
       <register name="-" type="4">
-        <text>//-------------------------------------------------------------------------</text>
+        <text>m</text>
       </register>
       <register name="/" type="4">
         <text encoding="base64">XDxYR2xvYmFsQWxsb2NcPg==</text>
@@ -180,6 +186,9 @@
       <register name="9" type="2">
         <text encoding="base64">CUt4U2V0dGluZ3Mgc2V0dGluZ3M7CglzZXR0aW5ncy5iZWdpbkdyb3VwKCJSZWNlbnRGaWxlcy9TZXF1ZW5jZS8iKTsKCXNldHRpbmdzLnNldFZhbHVlKHRtcFBhdGgsIFFTdHJpbmcoIiUxIikuYXJnKHQpKTsKCXNldHRpbmdzLmVuZEdyb3VwKCk7Cg==</text>
       </register>
+      <register name=":" type="4">
+        <text>w</text>
+      </register>
     </registers>
     <search>
       <last-search encoding="base64">XDxYR2xvYmFsQWxsb2NcPg==</last-search>
@@ -193,7 +202,9 @@
         <entry encoding="base64">XDxtX21kNFw+</entry>
         <entry encoding="base64">XDxYR2xvYmFsQWxsb2NcPg==</entry>
       </history-search>
-      <history-cmd />
+      <history-cmd>
+        <entry>w</entry>
+      </history-cmd>
       <history-expr />
       <history-input />
     </history>
