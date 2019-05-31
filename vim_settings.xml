@@ -30,8 +30,8 @@
         <mark key="^" line="1493" column="6" />
         <mark key="." line="908" column="69" />
       </file>
-      <file name="$USER_HOME$/wps/Coding/office/wpp/wppcore/shellapp/presentation_persist.cpp" timestamp="1559292065549">
-        <mark key="'" line="1400" column="8" />
+      <file name="$USER_HOME$/wps/Coding/office/wpp/wppcore/shellapp/presentation_persist.cpp" timestamp="1559293642357">
+        <mark key="'" line="1939" column="4" />
       </file>
       <file name="$USER_HOME$/wps/Coding/shell2/kcomctl/src/ksettings.h" timestamp="1558682528119">
         <mark key="'" line="14" column="9" />
@@ -213,6 +213,8 @@
       <jump line="1400" column="8" filename="$USER_HOME$/wps/Coding/office/wpp/wppcore/shellapp/presentation_persist.cpp" />
       <jump line="97" column="17" filename="$USER_HOME$/wps/Coding/include/kso/infocollect/exec_guard.h" />
       <jump line="111" column="17" filename="$USER_HOME$/wps/Coding/include/kso/infocollect/exec_guard.h" />
+      <jump line="1398" column="24" filename="$USER_HOME$/wps/Coding/office/wpp/wppcore/shellapp/presentation_persist.cpp" />
+      <jump line="1939" column="4" filename="$USER_HOME$/wps/Coding/office/wpp/wppcore/shellapp/presentation_persist.cpp" />
     </jumps>
     <registers>
       <register name="a" type="2">
@@ -225,7 +227,7 @@
         <text>organizationName</text>
       </register>
       <register name="/" type="4">
-        <text>hasUn</text>
+        <text encoding="base64">XDxfU2F2ZVZiYVw+</text>
       </register>
       <register name="0" type="2">
         <text encoding="base64">ICAgICAgICBwcmludGYoIjMgZ3JvdXA9JXMsIGtleT0lc1xuIiwgX3JlZ2lzdGVyLmdyb3VwKCkudG9VdGY4KCkuY29uc3REYXRhKCksIGtleS50b1V0ZjgoKS5jb25zdERhdGEoKSk7Cg==</text>
@@ -262,9 +264,9 @@
       </register>
     </registers>
     <search>
-      <last-search>hasUn</last-search>
+      <last-search encoding="base64">XDxfU2F2ZVZiYVw+</last-search>
       <last-offset />
-      <last-pattern>hasUn</last-pattern>
+      <last-pattern encoding="base64">XDxfU2F2ZVZiYVw+</last-pattern>
       <last-dir>1</last-dir>
       <show-last>false</show-last>
     </search>
@@ -276,6 +278,7 @@
         <entry encoding="base64">XDxtX3BCdWlsZGluUHJvcGVydGllc1w+</entry>
         <entry encoding="base64">XDx3cml0ZU9mZmljZXNwYWNlUmVnVmFsdWVcPg==</entry>
         <entry>hasUn</entry>
+        <entry encoding="base64">XDxfU2F2ZVZiYVw+</entry>
       </history-search>
       <history-cmd>
         <entry>w</entry>
