@@ -2,6 +2,7 @@
   <component name="CPPToolchains" version="4">
     <toolchains detectedVersion="5">
       <toolchain name="Visual Studio" toolSetKind="MSVC" toolSetPath="C:\Program Files (x86)\Microsoft Visual Studio\2019\Community" debuggerKind="CUSTOM_GDB" />
+      <toolchain name="WSL" toolSetKind="WSL" toolSetPath="C:\Users\liubin\AppData\Local\Microsoft\WindowsApps\ubuntu.exe" customCMakePath="\home\linuxbrew\.linuxbrew\bin\cmake" customCCompilerPath="/home/linuxbrew/.linuxbrew/bin/clang" customCXXCompilerPath="/home/linuxbrew/.linuxbrew/bin/clang++" hostId="7eb03cc3-5565-43e4-a10d-586f83f87f40" debuggerKind="CUSTOM_GDB" customGDBPath="\usr\bin\gdb" />
     </toolchains>
   </component>
 </application>
